@@ -1,3 +1,0 @@
-proyecto
-helloworld
-sergio
